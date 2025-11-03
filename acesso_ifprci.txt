@@ -1,1 +1,7 @@
-
+# Lista personalizada para PI-HOLE - IFPRCI
+#
+# LISTA PARA ACESSOS LIBERADOS
+#
+# Incluir: site.dominio / IP site.dominio
+#
+# INICIO DA LISTA:
