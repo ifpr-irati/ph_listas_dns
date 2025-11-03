@@ -5,3 +5,4 @@
 # Incluir: site.dominio / IP site.dominio
 #
 # INICIO DA LISTA:
+0.0.0.0 ifpr.edu.br
