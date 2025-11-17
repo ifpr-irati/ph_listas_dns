@@ -1,1 +1,8 @@
+# Lista personalizada para PI-HOLE - IFPRCI
+#
+# LISTA PARA ACESSOS BLOQUEADOS
+#
+# Incluir: site.dominio / IP site.dominio
+#
+# INICIO DA LISTA:
 # 0
