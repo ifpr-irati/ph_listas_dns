@@ -6,3 +6,25 @@
 #
 # INICIO DA LISTA:
 0.0.0.0 ifpr.edu.br
+suap.ifpr.edu.br
+app.powerbi.com
+hub.docker.com
+github.io
+framework.io
+material.io
+wuaze.com
+infinityfree.com
+codepen.io
+vsassets.io
+start.spring.io
+spring.io
+ktor.io
+kubernetes.io
+redis.io
+docker.io
+webflow.io
+material-ui.io
+socket.io
+npm.io
+vercel.io
+netlify.io
