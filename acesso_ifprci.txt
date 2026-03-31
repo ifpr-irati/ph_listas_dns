@@ -7,6 +7,7 @@
 # INICIO DA LISTA:
 0.0.0.0 ifpr.edu.br
 suap.ifpr.edu.br
+gov.br
 app.powerbi.com
 hub.docker.com
 github.io
